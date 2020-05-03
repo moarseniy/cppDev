@@ -6,7 +6,7 @@ using namespace std;
 int main()
 {
     ofstream fout;
-    fout.open("matrix.txt");
+    fout.open("matrix.csv");
 
     int i, j, n, m, k=10, p=17;
     cout << "N= ";
